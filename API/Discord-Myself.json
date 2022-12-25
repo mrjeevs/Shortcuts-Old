@@ -1,0 +1,6 @@
+{
+  "Version": "1.3.0",
+  "URL": "https://www.icloud.com/shortcuts/98b773c2b29348e7a66a247d2785ba78",
+  "Notes": "→ Ability to send multiple items at a time.\n→ Added support to choose whether to convert unsupported image/video types to Discord supported formats or to not convert at all.\n→ Discord Nitro users have the option to enter their elevated message limits into the shortcut's settings, so they won't be capped at free tier limits.\n→ Ability to send text as code blocks.\n→ Notify user whether item(s) were successfully uploaded to Discord or not.",
+  "Release": "12/23/22"
+}
