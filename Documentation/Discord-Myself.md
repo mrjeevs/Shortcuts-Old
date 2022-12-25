@@ -11,6 +11,7 @@
 - [Settings](#settings)
 - [Conclusion](#conclusion)
 - [Disclaimer](#disclaimer)
+- [Credits](#credits)
 
 
 ## Motivation
