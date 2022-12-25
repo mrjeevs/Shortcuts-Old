@@ -1,4 +1,4 @@
-[![Discord Myself Banner](https://i.imgur.com/6ApuYn3.png)](https://www.icloud.com/shortcuts/98b773c2b29348e7a66a247d2785ba78)
+[![Discord Myself Banner](https://i.imgur.com/6ApuYn3.png)](https://www.icloud.com/shortcuts/e17a747d909341208986059338575905)
 
 
 ## Table of Contents
@@ -147,4 +147,4 @@ Whenever a new update is released, the next time you run the shortcut, it will p
 
 ## Credits
 -  Graphics made with  [MediaKit](https://routinehub.co/shortcut/1911).
-- Inspired by Apple's *[Email Myself](https://www.icloud.com/shortcuts/dd6a0881316f478b951b2ef72c8a0d58)* shortcut.
+- Inspired by Apple's *Email Myself* shortcut.
