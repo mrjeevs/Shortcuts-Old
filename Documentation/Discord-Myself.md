@@ -147,4 +147,4 @@ Whenever a new update is released, the next time you run the shortcut, it will p
 
 ## Credits
 -  Graphics made with  [MediaKit](https://routinehub.co/shortcut/1911).
-- Inspired by Apple's *Email Myself* shortcut.
+- Inspired by Apple's *[Email Myself](https://www.icloud.com/shortcuts/dd6a0881316f478b951b2ef72c8a0d58)* shortcut.
