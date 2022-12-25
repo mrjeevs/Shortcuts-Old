@@ -10,4 +10,4 @@ Feel free to leave any feedback (*questions, bugs, features*) on my shortcuts! T
 - Get All Frames From Media:
 - Get Latest Discord Channel Message:
 - Insert Line Breaks For Setup Questions:
-- Time Your Shortcut: *See how fast your shortcuts run!*
+- [Time Your Shortcut](https://github.com/MrJeevs/Shortcuts/blob/main/Documentation/Time-Your-Shortcut.md): *See how fast your shortcuts run!*
