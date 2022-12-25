@@ -1,4 +1,4 @@
-[![Discord Myself Banner](https://i.imgur.com/6ApuYn3.png)](https://www.icloud.com/shortcuts/e17a747d909341208986059338575905)
+[![Discord Myself Banner](https://i.imgur.com/6ApuYn3.png)](https://www.icloud.com/shortcuts/62ac3cf7f22e472d96e805a1547f82aa)
 
 
 ## Table of Contents
