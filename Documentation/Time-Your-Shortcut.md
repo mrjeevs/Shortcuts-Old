@@ -1,6 +1,14 @@
 [![](https://i.imgur.com/1xNwXWG.png)](https://www.icloud.com/shortcuts/b140790bfb984a908d92eb2f4c0c31ec)
 
 
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Demo](#demo)
+- [Notes](#notes)
+- [Credits](#credits)
+
+
 ## Getting Started
 1. Download this shortcut.
 2. Edit this shortcut (*by clicking the three dots on the upper right of the shortcut*).
