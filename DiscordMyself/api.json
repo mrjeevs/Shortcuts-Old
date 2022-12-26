@@ -1,0 +1,6 @@
+{
+  "Version": "1.3.2",
+  "URL": "https://www.icloud.com/shortcuts/62ac3cf7f22e472d96e805a1547f82aa",
+  "Notes": "As RoutineHub is becoming unreliable to push updates, I am switching over to self-hosting using Github, instead. I've updated the Auto-Updater in the shortcut to access my personal API to check for updates. And if you missed v1.3.0 release notes (which is a MAJOR update btw), they are listed down below:\n\nv.1.3.0 release notes:\n→ Ability to send multiple items at a time.\n→ Added support to choose whether to convert unsupported image/video types to Discord supported formats or to not convert at all.\n→ Discord Nitro users have the option to enter their elevated message limits into the shortcut's settings, so they won't be capped at free tier limits.\n→ Ability to send text as code blocks.\n→ Notify user whether item(s) were successfully uploaded to Discord or not.",
+  "Release": "12/25/22"
+}
