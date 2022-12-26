@@ -4,7 +4,7 @@
 ## Table of Contents
 
 - [Motivation](#motivation)
-- [Features](#features)
+- [How It Works](#how-it-works)
 - [Benefits](#benefits)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
@@ -26,7 +26,7 @@ Most people simply resort to emailing themselves, since email supports majority 
 Well, look no further because Discord is here to save the day! [Discord](https://discord.com/) is a instant messenger and social platform that offers channels to text, voice, video call with others, and much more! With a little bit of work, you can have your own *private* server with a channel dedicated to sending content from your phone to Discord, which you can access Discord from virtually any device!
 
 
-## Features
+## How It Works
 Just like *Email Myself*, this shortcut lets you send anything to yourself, *through Discord*, from Share Sheet or from the clipboard, just with one tap! You can even select multiple items to be sent at a time (*each item will be sent as an individual message on Discord*)!
 
 **Using with Share Sheet (<img src="https://i.imgur.com/KDyO3ny.png" alt="share-sheet-icon" width="2.5%"/>)**:
