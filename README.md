@@ -7,7 +7,7 @@ Feel free to leave any feedback (*questions, bugs, features*) on my shortcuts! T
 
 ### SHORTCUTS
 - **Discord Myself**: *Kinda like "Email Myself", but with Discord*
-- **Get All Frames From Media**:
+- **Get All Frames From Media**: *Split your media into frames and save them.*
 - **Get Latest Discord Channel Message**:
 - **Insert Line Breaks For Setup Questions**:
 - **Time Your Shortcut**: *See how fast your shortcuts run!*
