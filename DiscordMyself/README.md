@@ -133,7 +133,7 @@ Feel free to leave any comments if you happen to run into unexpected errors, loo
 
 
 ## Auto-Updater
-This shortcut is powered by [Updatekit API](https://www.mikebeas.com/updatekit-api/v1). Updatekit API is not another standalone shortcut updater, rather one that is integrated in the shortcut itself. This means there is no need to install another shortcut to check for updates! The updates come to you!
+This shortcut is powered by [UpdateKit API](https://www.mikebeas.com/updatekit-api/v1). UpdateKit API is not another standalone shortcut updater, rather one that is integrated in the shortcut itself. This means there is no need to install another shortcut to check for updates! The updates come to you!
 
 Whenever a new update is released, the next time you run the shortcut, it will prompt you to either **Install** or **Skip** the update. If you choose to **Skip** the update, the shortcut will still run as intended.
 
@@ -141,7 +141,7 @@ Whenever a new update is released, the next time you run the shortcut, it will p
 ## Privacy
 - *This shortcut does not scrape for any sensitive or identifying information or install any sort of malware on your phone* ✅. *As always, I recommend my users to double check every action this shortcut performs, as it is your responsibility to be 100% sure of what you are using*.
 - *If the shortcut asks you permission before sending, just click **Always Allow**. It will ask this from **every source** you use the shortcut from. You can remove sources from the privacy settings of the shortcut later, should you choose to change your mind.*
-- *The Updatekit API uses your device's model and iOS version to ensure new updates are compatible with your device. If your device and/or iOS is not compatible with the shortcut, future updates won't be presented to you.*
+- *The UpdateKit API uses your device's model and iOS version to ensure new updates are compatible with your device. If your device and/or iOS is not compatible with the shortcut, future updates won't be presented to you.*
 
 
 ## Disclaimer
