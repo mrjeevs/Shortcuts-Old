@@ -7,7 +7,7 @@
 - [How It Works](#how-it-works)
 - [Benefits](#benefits)
 - [Prerequisites](#prerequisites)
-- [Setup](#setup)
+- [Getting Started](#getting-started)
 - [Settings](#settings)
 - [Conclusion](#conclusion)
 - [Auto-Updater](#auto-updater)
@@ -60,7 +60,7 @@ This shortcut is essentially a streamlined process to sending content to a speci
 	- You are also more than welcome to use the web version of Discord instead, if you do not want to download it onto your PC.
 
 
-## Setup
+## Getting Started
 ### Step 1: On Your PC (*Time: 2-3 min*)
 
 **If you already have a dedicated private Discord server, feel free to skip steps 1-3.**
