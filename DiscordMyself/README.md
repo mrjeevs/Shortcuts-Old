@@ -10,6 +10,8 @@
 - [Setup](#setup)
 - [Settings](#settings)
 - [Conclusion](#conclusion)
+- [Auto-Updater](#auto-updater)
+- [Privacy](#privacy)
 - [Disclaimer](#disclaimer)
 - [Credits](#credits)
 
