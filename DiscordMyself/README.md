@@ -139,7 +139,7 @@ Whenever a new update is released, the next time you run the shortcut, it will p
 ## Privacy
 - *This shortcut does not scrape for any sensitive or identifying information or install any sort of malware on your phone* ✅. *As always, I recommend my users to double check every action this shortcut performs, as it is your responsibility to be 100% sure of what you are using*.
 - *If the shortcut asks you permission before sending, just click **Always Allow**. It will ask this from **every source** you use the shortcut from. You can remove sources from the privacy settings of the shortcut later, should you choose to change your mind.*
-- *The Updatekit API uses your device's model and iOS version to ensure new updates are compatible with your device, otherwise, they won't be presented to you.*
+- *The Updatekit API uses your device's model and iOS version to ensure new updates are compatible with your device. If your device and/or iOS is not compatible with the shortcut, future updates won't be presented to you.*
 
 
 ## Disclaimer
