@@ -6,7 +6,7 @@ To download my shortcuts, just click on the banner within each README file. You 
 Feel free to leave any feedback (*questions, bugs, features*) on my shortcuts! To do so, create a *New issue* in the [Issues](https://github.com/MrJeevs/Shortcuts/issues) tab.
 
 ### SHORTCUTS
-- **Discord Myself**: *Kinda like "Email Myself", but with Discord*
+- **Discord Myself**: *Kinda like "Email Myself", but with Discord.*
 - **Get All Frames From Media**: *Split your media into frames and save them.*
 - **Get Latest Discord Channel Message**:
 - **Insert Line Breaks For Setup Questions**:
