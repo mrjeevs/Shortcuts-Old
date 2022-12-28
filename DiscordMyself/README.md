@@ -1,4 +1,4 @@
-[![Discord Myself Banner](https://i.imgur.com/6ApuYn3.png)](https://www.icloud.com/shortcuts/62ac3cf7f22e472d96e805a1547f82aa)
+[![Shortcut Banner](https://i.imgur.com/6ApuYn3.png)](https://www.icloud.com/shortcuts/62ac3cf7f22e472d96e805a1547f82aa)
 
 
 ## Table of Contents
@@ -129,7 +129,7 @@ And, that's it! You have successfully setup the **Discord Myself** shortcut on y
 
 If you happen to exceed the max file upload size while using the shortcut, I'd suggest trying to find ways to compress your file(s). If that's not feasible, then getting a hyperlink to your file(s) is another option. Or you can manually upload it to the Discord app, and see if it will get auto-compressed for you.
 
-Feel free to leave any comments if you happen to run into unexpected errors, looking for improvements, or even let me know how it's working for you! More than happy to hear any type of feedback!
+Feel free to leave any [issues](https://github.com/MrJeevs/Shortcuts/issues/new/choose) if you happen to run into unexpected errors, looking for improvements, or even let me know how it's working for you! More than happy to hear any type of feedback!
 
 
 ## Auto-Updater
@@ -141,7 +141,7 @@ Whenever a new update is released, the next time you run the shortcut, it will p
 ## Privacy
 - *This shortcut does not scrape for any sensitive or identifying information or install any sort of malware on your phone* ✅. *As always, I recommend my users to double check every action this shortcut performs, as it is your responsibility to be 100% sure of what you are using*.
 - *If the shortcut asks you permission before sending, just click **Always Allow**. It will ask this from **every source** you use the shortcut from. You can remove sources from the privacy settings of the shortcut later, should you choose to change your mind.*
-- *The UpdateKit API uses your device's model and iOS version to ensure new updates are compatible with your device. If your device and/or iOS is not compatible with the shortcut, future updates won't be presented to you.*
+- *The UpdateKit API uses your device's model and iOS version to ensure new updates are compatible with your device. If your device and/or iOS version are not compatible with the shortcut, future updates won't be presented to you.*
 
 
 ## Disclaimer
@@ -149,5 +149,5 @@ Whenever a new update is released, the next time you run the shortcut, it will p
 
 
 ## Credits
--  Graphics made with  [MediaKit](https://routinehub.co/shortcut/1911).
+- Graphics made with [MediaKit](https://routinehub.co/shortcut/1911).
 - Inspired by Apple's *[Email Myself](https://www.icloud.com/shortcuts/dd6a0881316f478b951b2ef72c8a0d58)* shortcut.
