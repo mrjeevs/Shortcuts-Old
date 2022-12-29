@@ -24,7 +24,7 @@ Since my [post on Reddit](https://www.reddit.com/r/shortcuts/comments/zluvtf/add
 
 ## How It Works
 1. When you first run the shortcut, you can either type your setup question/prompt in the text box or it'll automatically paste from your clipboard. 
-	2. *Make sure to have **at least one** newline between your paragraphs, otherwise the shortcut won't know what a paragraph is.*
+	- *Make sure to have **at least one** newline between your paragraphs, otherwise the shortcut won't know what a paragraph is.*
 2. Then, select the number of line breaks you want between every paragraph (*by default, it's 2. In other words, this means "one space gap" between each paragraph*).
 3. Let the shortcut do its magic and voilà, the multi-line setup question is copied to your clipboard!
 	- *What it is actually doing, under the hood, is adding a bunch of different [empty whitespace characters](https://qwerty.dev/whitespace/) until the requested line breaks are "formed" between paragraphs*.
