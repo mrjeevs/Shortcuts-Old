@@ -55,4 +55,5 @@ Whenever a new update is released, the next time you run the shortcut, it will p
 
 
 ## Credits
--  Graphics made with [MediaKit](https://routinehub.co/shortcut/1911).
+- Banner made with [MediaKit](https://routinehub.co/shortcut/1911).
+- Screenshots made with [Screenshot Framer](https://routinehub.co/shortcut/8067/).
