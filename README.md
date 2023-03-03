@@ -8,6 +8,6 @@ Feel free to leave any feedback (*questions, bugs, features*) on my shortcuts! T
 ### SHORTCUTS
 - **Discord Myself**: *Kinda like "Email Myself", but with Discord.*
 - **Get All Frames From Media**: *Split your media into frames and save them.*
-- **Get Latest Discord Channel Message**:
 - **Insert Line Breaks for Setup Questions**: *Make your shortcut's setup questions multi-line.*
+- **Sleep Time Calculator**: *Get the perfect amount of sleep every night!*
 - **Time Your Shortcut**: *See how fast your shortcuts run!*
