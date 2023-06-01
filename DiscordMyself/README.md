@@ -1,4 +1,3 @@
-
 [![Shortcut Banner](https://i.imgur.com/6ApuYn3.png)](https://www.icloud.com/shortcuts/62ac3cf7f22e472d96e805a1547f82aa)
 
 
