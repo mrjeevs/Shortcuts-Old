@@ -17,7 +17,7 @@
 
 
 ## Motivation
-Let me ask you two questions:
+Let me ask you two rhetorical questions:
 
 1. When did it hit you that there was no good way to transfer files, images, and/or text from your phone to your PC (*or vice versa*)?
 	- *Especially if you don't have the luxury of owning a MacBook where you can seamlessly use Airdrop to do so*.
@@ -41,7 +41,7 @@ Just like *Email Myself*, this shortcut lets you send anything to yourself, *thr
 This shortcut is essentially a streamlined process to sending content to a specific channel of your choice, from a server that you own. As opposed to either manually opening the app and sending content to the server/channel you want to, or using Share Sheet to manually do the same.
 
 **NOTES**: 
-- *Discord has a 2000-character limit and an 8 MB file size upload limit per message sent, without [Discord Nitro](https://discord.com/nitro). To learn more how this affects the shortcut, check out the [Settings](#settings) section*.
+- *Discord has a 2000-character limit and an 25 MB file size upload limit per message sent, without [Discord Nitro](https://discord.com/nitro). To learn more how this affects the shortcut, check out the [Settings](#settings) section*.
 - *If you want to send more than 3 items at a time through the shortcut, be sure to enable **Allow Sharing Large Amounts of Data** in your phone's settings (Settings > Shortcuts > Advanced).*
 
 
@@ -107,10 +107,10 @@ Here are the customizable settings you can tailor for your use case(s) of this s
 	- Unless you are subscribed to Discord Nitro (*which elevates the limit to **4000** characters per message*), you can leave this setting on its default.
 3. **Max File Size**
 	- This is the maximum file size Discord allows to be uploaded in a single message. 
-	- By default, it’s **8** MB per message for any Discord account. 
+	- By default, it’s **25** MB per message for any Discord account. 
 	- Unless you are subscribed to Discord Nitro (*which elevates the limit to **50** MB or **500** MB per message*), you can leave this setting on its default.
 4. **Preserve Images**
-	- This setting allows you choose whether to preserve an image or not. Here, preserving an image means your image ***will neither be converted nor compressed*** to image formats that Discord supports (*i.e. JPG, PNG, GIF*) and *metadata* is unchanged, as well. 
+	- This setting allows you choose whether to preserve an image or not. Here, preserving an image means your image ***will neither be converted nor compressed*** to image formats that Discord supports (*i.e. JPG, PNG, GIF*) and *metadata* is unchanged, as well.
 	- By default, images uploaded are **not preserved** and will be *slightly* converted/compressed from unsupported image types (*ex: HEIC*) to JPEG. Metadata will be removed, as well. 
 	- **NOTE**: Any convertible image to JPEG becomes "**preview-able**" on the Discord app. If you want to be able to preview the uploaded image on the app itself, I suggest leaving this setting on its default.
 5. **Preserve Videos**
@@ -129,7 +129,7 @@ And, that's it! You have successfully setup the **Discord Myself** shortcut on y
 
 If you happen to exceed the max file upload size while using the shortcut, I'd suggest trying to find ways to compress your file(s). If that's not feasible, then getting a hyperlink to your file(s) is another option. Or you can manually upload it to the Discord app, and see if it will get auto-compressed for you.
 
-Feel free to leave any [issues](https://github.com/MrJeevs/Shortcuts/issues/new/choose) if you happen to run into unexpected errors, looking for improvements, or even let me know how it's working for you! More than happy to hear any type of feedback!
+Feel free to leave any [issues](https://github.com/MrJeevs/Shortcuts/issues/new/choose) if you happen to run into unexpected errors, looking for improvements, or even let me know how it's working for you! More than happy to hear any type of feedback! You can also DM me on [Reddit](https://www.reddit.com/user/MisterJeevs) to provide your feedback. If you prefer not creating an account or staying anonymous, you can submit your feedback through this [Google form](https://forms.gle/Amsoh4cFA8mJq1ue7).
 
 
 ## Auto-Updater
@@ -140,7 +140,7 @@ Whenever a new update is released, the next time you run the shortcut, it will p
 
 ## Privacy
 - *This shortcut does not scrape for any sensitive or identifying information or install any sort of malware on your phone* ✅. *As always, I recommend my users to double check every action this shortcut performs, as it is your responsibility to be 100% sure of what you are using*.
-- *If the shortcut asks you permission to run, just click **Always Allow**. It will ask this from **every source** you use the shortcut from. You can remove sources from the privacy settings of the shortcut later, should you choose to change your mind.*
+- *If the shortcut asks you permission before sending, just click **Always Allow**. It will ask this from **every source** you use the shortcut from. You can remove sources from the privacy settings of the shortcut later, should you choose to change your mind.*
 - *The UpdateKit API uses your device's model and iOS version to ensure new updates are compatible with your device. If your device and/or iOS version are not compatible with the shortcut, future updates won't be presented to you.*
 
 
