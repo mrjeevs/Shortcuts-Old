@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone 14]
  - OS: [e.g. iOS 16.2]
- - Version: [e.g. 1.3.2]
+ - Shortcut Version: [e.g. 1.3.2]
 
 **Additional context**
 Add any other context about the problem here.
