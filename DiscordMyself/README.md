@@ -1,4 +1,4 @@
-[![Shortcut Banner](https://i.imgur.com/6ApuYn3.png)](https://www.icloud.com/shortcuts/62ac3cf7f22e472d96e805a1547f82aa)
+[![Shortcut Banner](https://i.imgur.com/6ApuYn3.png)](https://www.icloud.com/shortcuts/d674dd6539604ea18e2a5d2c3a35feba)
 
 
 ## Table of Contents
@@ -29,10 +29,10 @@ Well, look no further because Discord is here to save the day! [Discord](https:/
 
 
 ## How It Works
-Just like *Email Myself*, this shortcut lets you send anything to yourself, *through Discord*, from Share Sheet, or the clipboard, just with one tap! You can even select multiple items to be sent simultaneously (*each item will be sent as an individual message on Discord*)!
+Like *Email Myself*, this shortcut lets you send anything to yourself, *through Discord*, from Share Sheet, or the clipboard, just with one tap! You can even select multiple items to be sent simultaneously (*each item will be sent as an individual message on Discord*)!
 
 **Using with Share Sheet (<img src="https://i.imgur.com/KDyO3ny.png" alt="share-sheet-icon" width="2.5%"/>)**:
-- Whether you are scrolling on the web, going through your photos, looking at PDF files, or want to save a map location, if you see the Share Sheet icon, you can send it to Discord in one tap!
+- Whether you are scrolling on the web, going through your photos, looking at PDF files, or want to save a map location, if you see the *Share Sheet icon*, you can send it to Discord in one tap!
 	- *Click on the icon, scroll to the bottom of the menu, and click on **Discord Myself***.
 
 **Using with Clipboard**:
@@ -102,12 +102,12 @@ Here are the customizable settings you can tailor for this shortcut's use case(s
 	- This is the URL you created for your specific channel on your server's webhook settings page (*Server Settings > Integrations > Webhooks*). The Webhook URL is a direct link to post messages on a specific server channel. 
 	- For this shortcut, a Webhook URL is needed to know where to send the content you choose to upload.
 2. **Character Limit**
-	- This is the maximum number of characters Discord allows in a single message. By default, it’s **2000** characters per message for any Discord account. 
+	- This is the maximum number of characters Discord allows in a single message. By default, it's **2000** characters per message for any Discord account. 
 	- If a given text message exceeds the character limit, it will be uploaded as a **TXT** file instead. 
 	- Unless you are subscribed to Discord Nitro (*which elevates the limit to **4000** characters per message*), you can leave this setting on its default.
 3. **Max File Size**
 	- This is the maximum file size Discord allows to be uploaded in a single message. 
-	- By default, it’s **25** MB per message for any Discord account. 
+	- By default, it's **25** MB per message for any Discord account. 
 	- Unless you are subscribed to Discord Nitro (*which elevates the limit to **50** MB or **500** MB per message*), you can leave this setting on its default.
 4. **Preserve Images**
 	- This setting allows you to choose whether to preserve an image. Here, preserving an image means your image ***will neither be converted nor compressed*** to image formats that Discord supports (*i.e., JPG, PNG, GIF*), and *metadata* is also unchanged.
@@ -122,10 +122,25 @@ Here are the customizable settings you can tailor for this shortcut's use case(s
 6. **Send Text As Code**
 	- This setting allows you to send text as a code block, with syntax highlighting of a language of your choice. 
 	- By default, it's **disabled**.
+--- 
+**NOTE**: If you are a previous user of this shortcut and are updating to a new version of the shortcut, **please do not delete the old shortcut before transferring your Webhook URL to the new shortcut**, for your convenience. This process must be done manually. Here's how to transfer your **Webhook URL**:
 
+1. Install the new **Discord Myself** shortcut.
+2. During the *Setup* screen of the new shortcut, change the rest of the settings, except *WebhookURL*, as needed to your liking (*as it is relatively easy to do here*), and click **Done**.
+3. Go to the **old "Discord Myself"** shortcut in the *Shortcuts* app and *edit* the shortcut.
+	- To *edit* a shortcut, you can either:
+		1. Tap the white circle, with three dots inside, on the top right of the shortcut.
+		2. Long press on the shortcut and tap on the **Edit** quick action.
+4. Scroll down until you see the **Settings** section with a *Dictionary* right below it.
+5. Copying the **Webhook URL** in the *WebhookURL* field.
+6. Exit the shortcut by tapping the **Done** button in the top right of the screen.
+7. Go to the **new "Discord Myself"** shortcut and *edit* it.
+8. Scroll down to the **Settings** dictionary, and paste your clipboard in the *WebhookURL* field.
+
+You can delete the old shortcut safely now after following the above steps.
 
 ## Conclusion
-And that's it! You have successfully set up the **Discord Myself** shortcut on your phone. Now, you can send anything you want from your phone to Discord through the Share Sheet or with your clipboard.
+And that's it! You have successfully set up the **Discord Myself** shortcut on your phone. Now, you can send anything from your phone to Discord through the Share Sheet or with your clipboard.
 
 If you exceed the max file upload size while using the shortcut, I suggest trying to find ways to compress your file(s). If that's not feasible, getting a hyperlink to your file(s) is another option. Or you can manually upload it to the Discord app and see if it will get auto-compressed for you.
 
