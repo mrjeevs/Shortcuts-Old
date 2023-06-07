@@ -11,3 +11,4 @@ Feel free to leave any feedback (*questions, bugs, features*) on my shortcuts! T
 - **Insert Line Breaks for Setup Questions**: *Make your shortcut's setup questions multi-line.*
 - **Sleep Time Calculator**: *Get the perfect amount of sleep every night!*
 - **Time Your Shortcut**: *See how fast your shortcuts run!*
+- **Wallpaper Roulette**: *Elevate your device's aesthetic with random Unsplash wallpapers.*
